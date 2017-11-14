@@ -76,6 +76,14 @@ footer{
 footer p{
   font-family: "Raleway", sans-serif;
 }
+
+button{
+  font-family: "Raleway", sans-serif;
+}
+
+.numOfWins{
+  color: #F15B31;
+}
 .copyright{
   float: left;
 }
